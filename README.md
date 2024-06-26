@@ -10,7 +10,7 @@
 <h6 align="center">Hi there, I'm Prasant kumar Sethi ! 👋</h1>
 <h4 align="center">I'm a passionate Python Developer from Bengaluru. Welcome to my GitHub profile!</h4> 
 
-
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">
 <!---
 prasantagit0/prasantagit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
